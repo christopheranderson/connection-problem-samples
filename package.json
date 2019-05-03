@@ -1,0 +1,14 @@
+{
+  "name": "net-exceptions-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "econnrefused.js",
+  "scripts": {
+    "client-generated": "node ./econnresetFROMclient.js",
+    "server-generated": "node ./econnresetFROMserver.js",
+    "refused": "node ./econnrefused.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
